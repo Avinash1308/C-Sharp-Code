@@ -35,3 +35,24 @@ namespace LearnC_
         }
     }
 }
+
+
+
+//Short Hand property
+
+using System;
+using System.Linq;
+
+namespace LearnC_
+{
+    class Learn
+    {
+       
+        public string Name
+        {
+            get;
+            set;
+        }
+
+    }
+}
